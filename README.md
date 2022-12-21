@@ -51,39 +51,39 @@ html 디자인 작업중<br>
 
 ##### 1. 메인 화면
 
-![image](https://github.com/taiji9203/java_html/tree/main/img/main01.png)
+![image](https://github.com/taiji9203/java_html/blob/main/img/main01.png)
 
 
 ##### 2. 회원가입 화면
 
-![image](https://github.com/taiji9203/java_html/tree/main/img/main02.png)
+![image](https://github.com/taiji9203/java_html/blob/main/img/main02.png)
 
 
 ##### 3. 로그인 화면
 
-![image](https://github.com/taiji9203/java_html/tree/main/img/main03.png)
+![image](https://github.com/taiji9203/java_html/blob/main/img/main03.png)
 
 
 ##### 4. 진료예약 화면
 
-![image](https://github.com/taiji9203/java_html/tree/main/img/main04.png)
+![image](https://github.com/taiji9203/java_html/blob/main/img/main04.png)
 
 
 ##### 5. 예약내역 화면
 
-![image](https://github.com/taiji9203/java_html/tree/main/img/main05.png)
+![image](https://github.com/taiji9203/java_html/blob/main/img/main05.png)
 
 ##### 5. 의사 스케쥴 화면
 
-![image](https://github.com/taiji9203/java_html/tree/main/img/main06.png
+![image](https://github.com/taiji9203/java_html/blob/main/img/main06.png)
 
 ##### 5. 일정추가 화면
 
-![image](https://github.com/taiji9203/java_html/tree/main/img/main07.png
+![image](https://github.com/taiji9203/java_html/blob/main/img/main07.png)
 
 ##### 5. 진료예약 관리자 화면
 
-![image](https://github.com/taiji9203/java_html/tree/main/img/main08.png
+![image](https://github.com/taiji9203/java_html/blob/main/img/main08.png)
 
 <br><br>
 ### Database MySql5.7
