@@ -35,10 +35,6 @@ http://ssaem.shop/
 <br><br>
 ### 예약시스템 미완성<br>
 http://ssaem.shop/view/main.jsp
-
-html 디자인 작업중<br>
-관리자 로그인 미흡<br>
-의사 로그인 미흡<br>
 <br><br>
 
 ### 실행화면
@@ -87,3 +83,4 @@ html 디자인 작업중<br>
 <br>
 출처<br>
 https://github.com/pese2912/Hospital_Reservation_Page/
+
