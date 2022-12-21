@@ -26,12 +26,13 @@ JAVA 수업과제 클론코딩
 ④ JSP 개발 및 데이터베이스 연동 - JSP를 사용하여 백엔드를 구축하여 웹 사이트 기능 추가
 
 ⑤ 테스트
+<br><br>
 
 ### 작업진행
 
 디자인링크<br>
 http://ssaem.shop/
-<br>
+<br><br>
 ### 예약시스템 미완성<br>
 http://ssaem.shop/view/main.jsp
 
