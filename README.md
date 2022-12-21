@@ -19,7 +19,7 @@ JAVA 수업과제 클론코딩
 
 ① 개발환경 구축
 
-② 웹 디자인 - Bootstrap 프레임워크를 사용하여 프론트엔드 디자인
+② 웹 디자인 - 프레임워크를 사용하지 않고 프론트엔드 디자인
 
 ③ 데이터베이스 설계 및 구축
 
@@ -27,12 +27,12 @@ JAVA 수업과제 클론코딩
 
 ⑤ 테스트
 
-⑥ 배포 및 유지, 보수
-<br><br>
+### 작업진행
+
 디자인링크<br>
 http://ssaem.shop/
 <br>
-### 예약시스템 미완성<br>
+## 예약시스템 미완성<br>
 http://ssaem.shop/view/main.jsp
 <br>
 회원가입<br>
@@ -44,6 +44,52 @@ http://ssaem.shop/view/main.jsp
 html 디자인 작업중<br>
 관리자 로그인 미흡<br>
 의사 로그인 미흡<br>
+
+<br><br>
+
+### 실행화면
+
+##### 1. 메인 화면
+
+![image](https://github.com/taiji9203/java_html/tree/main/img/main01.png)
+
+
+##### 2. 회원가입 화면
+
+![image](https://github.com/taiji9203/java_html/tree/main/img/main02.png)
+
+
+##### 3. 로그인 화면
+
+![image](https://github.com/taiji9203/java_html/tree/main/img/main03.png)
+
+
+##### 4. 진료예약 화면
+
+![image](https://github.com/taiji9203/java_html/tree/main/img/main04.png)
+
+
+##### 5. 예약내역 화면
+
+![image](https://github.com/taiji9203/java_html/tree/main/img/main05.png)
+
+##### 5. 의사 스케쥴 화면
+
+![image](https://github.com/taiji9203/java_html/tree/main/img/main06.png
+
+##### 5. 일정추가 화면
+
+![image](https://github.com/taiji9203/java_html/tree/main/img/main07.png
+
+##### 5. 진료예약 관리자 화면
+
+![image](https://github.com/taiji9203/java_html/tree/main/img/main08.png
+
+<br><br>
+### Database MySql5.7
+
+<!-- ![image](https://github.com/taiji9203/java_html/tree/main/img/main09.png) -->
+
 <br>
 출처<br>
 https://github.com/pese2912/Hospital_Reservation_Page/
