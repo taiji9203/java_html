@@ -2,7 +2,7 @@
 출처
 https://github.com/pese2912/Hospital_Reservation_Page
 
-회원가입
+회원가입<br>
 예약
 예약확인
 예약수정
