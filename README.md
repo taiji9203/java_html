@@ -4,7 +4,7 @@ JSP를 이용한 병원 예약관리 시스템 웹 사이트
 ### 개발환경 
 
 * 웹 브라우저 : Chrome 
-* 웹 컨테이너 : Tomcat 9.0 이상
+* 웹 컨테이너 : Tomcat 8.0 이상
 * 프로그래밍 언어 : Java, HTML, CSS, Javascript, JSP
 * 프로그래밍 개발 환경 : JDK
 * IDE : Eclipse IDE for Enterprise Java and Web Developers
