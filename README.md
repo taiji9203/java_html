@@ -28,17 +28,6 @@ JAVA 수업과제 클론코딩
 ⑤ 테스트
 <br><br>
 
-### 작업진행
-
-디자인링크<br>
-http://ssaem.shop/
-<br><br>
-### 예약시스템 미완성<br>
-http://ssaem.shop/view/main.jsp
-<br><br>
-
-### 실행화면
-
 ##### 1. 메인 화면
 
 ![image](https://github.com/taiji9203/java_html/blob/main/img/main01.png)
@@ -79,6 +68,28 @@ http://ssaem.shop/view/main.jsp
 ### Database MySql5.7
 
 <!-- ![image](https://github.com/taiji9203/java_html/tree/main/img/main09.png) -->
+
+<br><br>
+### 작업진행
+
+디자인링크<br>
+http://ssaem.shop/
+<br><br>
+### 예약시스템 미완성<br>
+http://ssaem.shop/view/main.jsp
+<br><br>
+### 개선사항
+
+회원가입과 로그인은 되는데
+의사선생님 로그인 부분과 관리자 로그인 부분이
+없어 일정보기나 관리자에서 수정, 삭제 변경이
+파일에 바로 접속해서 볼 수 있다는 단점이 있다
+<br><br>
+### 추가한 기능
+
+의사 가입과 로그인 페이지,
+관리자 가입과 로그인 페이지가 추가 되어야
+스케쥴 관리하는데 편리할 것 같습니다.
 
 <br>
 출처<br>
